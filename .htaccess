@@ -1,0 +1,6 @@
+ErrorDocument 404 /error/404.php
+#ErrorDocument 403 "403 You don't have permision to view this resource"
+#Order deny,allow
+#Deny from all
+#Allow from 173.171.130.42
+#Allow from 72.184.127.9

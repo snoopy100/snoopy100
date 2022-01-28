@@ -1,0 +1,35 @@
+          body {
+margin:20px;
+background-color:lightblue;
+          }
+            #title {
+          padding:.3em;
+          background-color:red;
+          border-radius:25px;
+}
+#snoopy-begginning{
+color:lightblue;
+}
+table ,th, td{
+padding:5px;
+border:5px solid rgb(10, 30, 200);
+}
+.snoopyimg {
+padding:10px;
+width:30%;
+}
+#snoopy {
+postion: absolute;
+position-right: 300px;
+color:rgb(5, 20, 240);
+}
+#button1 {
+background-color:blue;
+border-radius:10px;
+}
+#no-serif-font {
+font-family:Helvetica, Arial, sans-serif;
+}
+#snoopybutton {
+
+}
