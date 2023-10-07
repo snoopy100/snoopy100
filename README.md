@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @snoopy100
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning CSS
-- 💞️ I’m looking to collaborate on a website
+- 👀 I’m interested in javafx, and ai
+- 🌱 I’m currently learning to use JavaFX, gentic algorithims, and games
+- 💞️ I’m looking to collaborate on a project with genetic algorithims, java, and javafx
 - 📫 How to reach me ...
 
 <!---
